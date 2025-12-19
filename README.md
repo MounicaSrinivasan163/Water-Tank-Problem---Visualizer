@@ -177,14 +177,9 @@ Output:
 ---
 
 # 🖼️ **8. Screenshots**
-(Add images once deployed)
 
-```
-/screenshots
-    ├── input-example.png
-    ├── svg-visualization.png
-    └── output-display.png
-```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2550b2cf-c843-4e52-a085-ad0d7db105dd" />
+
 
 ---
 
