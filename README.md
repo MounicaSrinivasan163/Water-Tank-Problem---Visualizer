@@ -95,8 +95,7 @@ Then water[i] = min(leftMax[i], rightMax[i]) – height[i]
 
 ✔ Fast  
 ✔ Simple  
-✔ Best for teaching + visualizing  
-✔ Recommended for interviews  
+✔ Best for teaching + visualizing
 
 ---
 
